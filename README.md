@@ -4,12 +4,14 @@ Assignment-QuickShell
 Assignment
 Preview: 
 
-![Screenshot (4)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/8dd1d3a5-b1fb-4edc-b793-3c4e7a872324)
+![Screenshot (4)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/cd5a8d10-8a71-4ead-86c2-86d32b3a57ff)
 
-![Screenshot (5)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/816a6c17-3b9a-4989-90ee-c3d393b7203c)
 
-![Screenshot (6)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/67da4c46-47e3-4a49-98b4-849bbffcc89e)
+![Screenshot (5)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/361a09ef-42bf-4bda-9bc0-9a44cc5c3dcb)
 
+![Screenshot (6)](https://github.com/arjitshandilya/Quicksell_assignment/assets/63345828/f5d830b9-e00c-4fd1-a32f-325bd2c25fde)
+
+ And video is in screenshot folder
 
 
 API from which data is fetched
